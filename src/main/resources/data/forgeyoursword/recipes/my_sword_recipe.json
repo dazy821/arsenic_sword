@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " f ",
+    " d ",
+    " s "
+  ],
+  "key": {
+    "f": { 
+      "item": "minecraft:fermented_spider_eye"
+     },
+    "d": { 
+      "item": "minecraft:dragon_breath"
+    },
+  "s": { 
+    "item": "minecraft:stick"
+  }
+},
+  "result": {
+    "item": "forgeyoursword:my_sword"
+  }
+}
